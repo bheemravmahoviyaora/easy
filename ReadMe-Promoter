@@ -1,0 +1,5 @@
+# Data Communication:
+        <!--
+                     <app-cust-service-price-details [priceDetailsResponse]="priceDetailsResponse" (productAddToCartEvent)="processPurchase($event)" ></app-cust-service-price-details>
+
+        -->
